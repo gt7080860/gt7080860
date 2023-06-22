@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-![download](https://github.com/geohot/tinygrad/assets/137403156/a0c3704e-304d-4b46-b5be-9e90b233a544)
+![PIC](https://github.com/ykdojo/kaguya/assets/137403156/251f589e-ddd1-4293-88d0-43e17cb94a29)
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
