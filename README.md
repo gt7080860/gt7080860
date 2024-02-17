@@ -1,7 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-![PIC](https://github.com/ykdojo/kaguya/assets/137403156/251f589e-ddd1-4293-88d0-43e17cb94a29)
-
- 
 ### Hi there, I'm [Gaurav Tiwari](https://www.linkedin.com/in/ankush-kumar-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 🚀 AI & ML Engineer | Passionate about crafting intelligent solutions and optimizing algorithms for real-world impact. 💻 Specializing in prompt engineering, I excel in fine-tuning models and pushing the boundaries of what's achievable. Explore my GitHub for innovative projects that bridge the gap between creativity and code. Let's collaborate and shape the future of artificial intelligence! 🌐🤖
 
